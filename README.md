@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/emanuil/php-unlocker.svg?branch=master)](https://travis-ci.org/emanuil/php-unlocker)
+
 PHP-Unlocker
 ==========
 PHP tool to scan [ADOdb](http://adodb.sourceforge.net) code for unintended table locks related to database transactions
