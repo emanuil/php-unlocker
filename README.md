@@ -84,4 +84,4 @@ PHP-Unlocker is CI friendly. On error it will exit with -1 status, so it's easy 
 
 PHP Parser
 ==========
-PHP-Reaper is using the excellent php parser with the same name: [PHP-Parser](https://github.com/nikic/PHP-Parser).
+PHP-Unlocker is using the excellent php parser with the same name: [PHP-Parser](https://github.com/nikic/PHP-Parser).
